@@ -1,0 +1,7 @@
+name: BestChat
+version: '${project.version}'
+main: bestchat.bestchat.Main
+prefix: BestChat
+authors: [ _mati90_ ]
+commands:
+  chat:
